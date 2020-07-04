@@ -1,0 +1,6 @@
+rootProject.name = 'Experiment With RxJava'
+include 'DynamoDBTutorial'
+enableFeaturePreview('IMPROVED_POM_SUPPORT')
+include 'EffectiveJava'
+include 'Redis'
+
