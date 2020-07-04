@@ -12,8 +12,8 @@ public class DynamoDBManager {
   private DynamoDB dycnamoDB;
   private AmazonDynamoDB amazonDynamoDB;
 
-  private static final String AMAZON_ACCESS_KEY = "AKIA2V5KESQKH5TANFPV";
-  private static final String AMAZON_SECRET_KEY = "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";
+  private static final String AMAZON_ACCESS_KEY = "DELETED";
+  private static final String AMAZON_SECRET_KEY = "DELETED";
 
   public DynamoDBManager() {
 
